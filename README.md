@@ -8,6 +8,7 @@ Github ofrece:
 
 * Control de versiones
 * Repositorios remotos
+* Ramas 
 
 Para más información: [github](http://github.com)
 
